@@ -1,0 +1,23 @@
+h1{
+    color: rgb(206, 6, 6);
+    background-color: rgb(34, 13, 226);
+}
+body{
+    align-items: center;
+    text-align: center;
+    align-content: center;
+}
+span{
+    font-style: inherit;
+    font-size: large;
+    color: rgb(9, 194, 226);
+}
+div{
+    input[type=button], input[type=submit], input[type=reset] 
+        border-width: 2px;
+        padding: 4px
+        font-size: 10pt;
+        color: yellow;
+        background:green;
+        text-align: center;
+}  
